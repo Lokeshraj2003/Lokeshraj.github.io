@@ -171,7 +171,7 @@
         content: '';
         position: absolute;
         inset: 10px;
-        background-image: url(Profile.jpg);
+        background-image: url(Images/Profile.jpg);
         background-size: cover;
         border-radius: 16px;
        
